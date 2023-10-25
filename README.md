@@ -1,16 +1,16 @@
 # 👋 I'm Guille Ferriol, a work-in-progress Data Scientist! 💻
 
-## I am currently studying at Havana University, [@matcom](https://github.com/matcom)
+## I am currently studying at the University of Havana, [@matcom](https://github.com/matcom)
 
 ###  ℹ️ About Me
 - 👀 I’m interested in AI in general.
 - 🌱 I’m currently learning Machine Learning and DSA.
-- 💞️ I’m looking to collaborate in machine learning projects.
+- 💞️ I’m looking to collaborate in Machine Learning Projects.
 
 ## 🛠️ Skills
 - **Programming:** Python and SQL.
 - **Software Development:** Experience in creating applications.
-- **Software engineer:** Data Structures and Algorithms (DSA) , Design Patterns, SOLID,  Functional Programming (FP) and Object Oriented Programming (OOP).
+- **Software engineer:** Data Structures and Algorithms (DSA) , Design Patterns, SOLID principles, Functional Programming (FP) and Object Oriented Programming (OOP).
 
 ## 📬 Contact Me
 - 📫 You can reach out to me via email: guillermoferrioldev@gmail.com
