@@ -1,6 +1,6 @@
 # 👋 I'm Guille Ferriol, a work-in-progress Data Scientist! 💻
 
-## I am currently studying at Havana University, [@matcom](@matcom)
+## I am currently studying at Havana University, [@matcom](https://github.com/matcom)
 
 ###  ℹ️ About Me
 - 👀 I’m interested in AI in general.
