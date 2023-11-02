@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate in Machine Learning Projects.
 
 ## 🛠️ Skills
-- **Programming:** Python and SQL.
+- **Programming:** Python, SQL and Shell.
 - **Software Development:** Experience in creating applications.
 - **Software engineer:** Data Structures and Algorithms (DSA) , Design Patterns, SOLID principles, Functional Programming (FP) and Object Oriented Programming (OOP).
 
