@@ -10,7 +10,7 @@
 ## 🛠️ Skills
 - **Programming Languages:** Python, SQL, HTML, CSS and Shell.
 - **Software Development:** Experience in creating applications.
-- **Software engineer:** Data Structures and Algorithms (DSA) , Design Patterns, Design Principles, Functional Programming (FP), Object Oriented Programming (OOP) and Software architecure.
+- **Software engineer:** Data Structures and Algorithms (DSA) , Design Patterns, Design Principles (SOLID, KISS, YAGNI, GRASP), Functional Programming (FP), Object Oriented Programming (OOP) and Software Architecure.
 
 ## 📬 Contact Me
 - 📫 You can reach out to me via email: guillermoferrioldev@gmail.com
