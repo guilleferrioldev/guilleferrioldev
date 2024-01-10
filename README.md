@@ -4,7 +4,7 @@
 
 ###  ℹ️ About Me
 - 👀 I’m interested in AI in general.
-- 🌱 I’m currently learning Machine Learning and DSA.
+- 🌱 I’m currently DSA and Web Development.
 - 💞️ I’m looking to collaborate in Machine Learning Projects.
 
 ## 🛠️ Skills
