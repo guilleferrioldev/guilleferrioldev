@@ -8,9 +8,9 @@
 - 💞️ I’m looking to collaborate in Machine Learning Projects.
 
 ## 🛠️ Skills
-- **Programming Languages:** Python, SQL, HTML, CSS and Shell.
+- **Programming Languages:** Python, SQL, HTML, CSS, Typescript and Shell.
 - **Software Development:** Experience in creating applications.
-- **Software engineer:** Data Structures and Algorithms (DSA) , Design Patterns, Design Principles (SOLID, KISS, YAGNI, GRASP), Functional Programming (FP), Object Oriented Programming (OOP) and Software Architecure.
+- **Software engineer:** Data Structures and Algorithms (DSA) , Design Patterns, Design Principles (SOLID, KISS, YAGNI, GRASP), Functional Programming (FP), Object Oriented Programming (OOP),  and Software Architecure.
 
 ## 📬 Contact Me
 - 📫 You can reach out to me via email: guillermoferrioldev@gmail.com
