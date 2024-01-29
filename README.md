@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate in Machine Learning Projects.
 
 ## 🛠️ Skills
-- **Programming Languages:** Python, SQL, HTML, CSS, Typescript and Shell.
+- **Programming Languages:** Python, SQL, HTML, CSS, Typescript, Go and Shell.
 - **Software Development:** Experience in creating applications.
 - **Software engineer:** Data Structures and Algorithms (DSA) , Design Patterns, Design Principles (SOLID, KISS, YAGNI, GRASP), Functional Programming (FP), Object Oriented Programming (OOP),  and Software Architecure.
 
