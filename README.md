@@ -15,9 +15,6 @@
 - Functional Programming (FP)
 - Software Architecure
 
-## 📬 Contact Me
-- You can reach out to me via email: guillermoferrioldev@gmail.com
-
 ## :robot: Technologies
 <div>
   <div>
@@ -31,27 +28,36 @@
   </div>
 
   <div>
-    <p>Frameworks</p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    <p>Frameworks and Libraries</p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="38"/>
     <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg" alt="GO fiber"  width="50" height="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="38"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="38"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="plotly" width="30" height="35"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn"  width="40" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="40" height="40"/>
   </div>
 
   <div>
     <p>Databases</p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql"  width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql"  width="40" height="40">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite"  width="40" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="pandas"  width="40" height="40">
   </div>
 
   <div>
     <p>Others</p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="sqlite"  width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"  width="40" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="git"  width="40" height="40">
   </div>
 </div>
 
-##  Stats
+## :bar_chart: Stats
 <img src="https://github-readme-stats.vercel.app/api?username=guilleferrioldev&show_icons=true&locale=en" alt="guilleferrioldev" /> 
+
+## 📬 Contact Me
+- You can reach out to me via email: guillermoferrioldev@gmail.com
 
 <!---
 guilleferrioldev/guilleferrioldev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
