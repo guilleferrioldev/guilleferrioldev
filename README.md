@@ -15,6 +15,8 @@
 ## 📬 Contact Me
 - 📫 You can reach out to me via email: guillermoferrioldev@gmail.com
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=guilleferrioldev&show_icons=true&locale=en" alt="guilleferrioldev" /></p>
+
 <!---
 guilleferrioldev/guilleferrioldev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
