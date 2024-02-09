@@ -18,8 +18,8 @@
 ## 🤖 Technologies
 <details>
 <summary><strong>Tap to see the technologies I've used 👇: </strong></summary>
-<strong>Languages</strong>
 <br>
+<strong>Languages</strong>
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="40"/>
@@ -58,8 +58,19 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="archlinux"  width="40" height="40"> 
 </details>
 
+## Experience 👨‍💻
+<details>
+<summary><strong>Tap to see my experience 👇: </strong></summary>
+<br>
+  <p><strong>🏗️ Architecture Student </strong> 2019-2022</p>
+  <p><strong>💻 Data Science Student</strong> 2023-present</p>
+  <p><strong>🧑‍💼 Software Engineer at ONBC</strong> 2023-present</p>
+</details>
+
 ## 📊 Stats
 <img src="https://github-readme-stats.vercel.app/api?username=guilleferrioldev&show_icons=true&locale=en" alt="guilleferrioldev" /> 
+
+
 
 ## 📬 Contact Me
 - You can reach out to me via email: guillermoferrioldev@gmail.com
