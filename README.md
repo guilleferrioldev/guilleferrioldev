@@ -1,4 +1,4 @@
-# 👋 I'm Guille Ferriol, a work-in-progress Data Scientist! 💻
+# 👋 I'm Guille Ferriol, a work-in-progress Data Scientist!
 
 ## I am currently studying at the University of Havana, [@matcom](https://github.com/matcom)
 
@@ -58,7 +58,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="archlinux"  width="40" height="40"> 
 </details>
 
-## Experience 👨‍💻
+## 👨‍💻 Experience 
 <details>
 <summary><strong>Tap to see my experience 👇: </strong></summary>
 <br>
