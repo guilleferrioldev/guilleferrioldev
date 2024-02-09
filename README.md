@@ -8,19 +8,19 @@
 ## 🛠️ Technical Skills
 <details>
 <br>
-<summary><strong>Tap to see my Technical Skills 👇: </strong></summary>
-  <p><strong>💹 Data manipulation, visualization and processing.</strong></p>
-  <p><strong>🧠 Data Structures and Algorithms (DSA)</strong></p>
-  <p><strong>🧾 Design Patterns</strong></p>
-  <p><strong>📝 Design Principles (SOLID, KISS, YAGNI, GRASP)</strong></p>
-  <p><strong>👨‍👩‍👧‍👦 Object Oriented Programming (OOP)</strong></p>
-  <p><strong>🧮 Functional Programming (FP)</strong></p>
-  <p><strong>🏛️ Software Architecure</strong></p> 
+<summary><strong>Tap to see my Technical Skills 👇 </strong></summary>
+  <p>- 💹 Data manipulation, visualization and processing</p>
+  <p>- 🧠 Data Structures and Algorithms (DSA)</p>
+  <p>- 🧾 Design Patterns</p>
+  <p>- 📝 Design Principles (SOLID, KISS, YAGNI, GRASP)</p>
+  <p>- 👨‍👩‍👧‍👦 Object Oriented Programming (OOP)</p>
+  <p>- 🧮 Functional Programming (FP)</p>
+  <p>- 🏛️ Software Architecure</p> 
 </details>
 
 ## 🤖 Technologies
 <details>
-<summary><strong>Tap to see the Technologies I've used 👇: </strong></summary>
+<summary><strong>Tap to see the Technologies I've used 👇 </strong></summary>
 <br>
 <strong>Languages</strong>
 <div>
@@ -63,9 +63,10 @@
 
 ## 👨‍💻 Experience 
 <details>
-<summary><strong>Tap to see my Experience 👇: </strong></summary>
+<summary><strong>Tap to see my Experience 👇 </strong></summary>
 <br>
   <p><strong>🏗️ Architecture Student </strong> 2019-2022</p>
+  <p><strong>🆓 Freelance in Digital Marketing </strong> 2020-2021</p>
   <p><strong>💻 Data Science Student</strong> 2023-present</p>
   <p><strong>🧑‍💼 Software Engineer at ONBC</strong> 2023-present</p>
 </details>
