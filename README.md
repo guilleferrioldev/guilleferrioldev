@@ -1,23 +1,26 @@
-# 👋 I'm Guille Ferriol, a work-in-progress Data Scientist!
+# 👋 Hi buddy, I'm Guille Ferriol, a mix between software engineer and data scientist 😅
 
-## I am currently studying at the University of Havana, [@matcom](https://github.com/matcom)
-
-###  ℹ️ About Me
+##  ℹ️ About Me
 - 👀 I’m interested in AI in general.
 - 🌱 I’m currently Web Development and Software Architecture.
 - 💞️ I’m looking to collaborate in Machine Learning Projects.
 
-## 🛠️ Skills
-- Data Structures and Algorithms (DSA)
-- Design Patterns
-- Design Principles (SOLID, KISS, YAGNI, GRASP)
-- Object Oriented Programming (OOP)
-- Functional Programming (FP)
-- Software Architecure
+## 🛠️ Technical Skills
+<details>
+<br>
+<summary><strong>Tap to see my Technical Skills 👇: </strong></summary>
+  <p><strong>💹 Data manipulation, visualization and processing.</strong></p>
+  <p><strong>🧠 Data Structures and Algorithms (DSA)</strong></p>
+  <p><strong>🧾 Design Patterns</strong></p>
+  <p><strong>📝 Design Principles (SOLID, KISS, YAGNI, GRASP)</strong></p>
+  <p><strong>👨‍👩‍👧‍👦 Object Oriented Programming (OOP)</strong></p>
+  <p><strong>🧮 Functional Programming (FP)</strong></p>
+  <p><strong>🏛️ Software Architecure</strong></p> 
+</details>
 
 ## 🤖 Technologies
 <details>
-<summary><strong>Tap to see the technologies I've used 👇: </strong></summary>
+<summary><strong>Tap to see the Technologies I've used 👇: </strong></summary>
 <br>
 <strong>Languages</strong>
 <div>
@@ -60,7 +63,7 @@
 
 ## 👨‍💻 Experience 
 <details>
-<summary><strong>Tap to see my experience 👇: </strong></summary>
+<summary><strong>Tap to see my Experience 👇: </strong></summary>
 <br>
   <p><strong>🏗️ Architecture Student </strong> 2019-2022</p>
   <p><strong>💻 Data Science Student</strong> 2023-present</p>
