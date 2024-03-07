@@ -72,11 +72,6 @@
   <p><strong>🧑‍💼 Software Engineer at ONBC</strong> 2023-present</p>
 </details>
 
-## 📊 Stats
-<img src="https://github-readme-stats.vercel.app/api?username=guilleferrioldev&show_icons=true&locale=en" alt="guilleferrioldev" /> 
-
-
-
 ## 📬 Contact Me
 - You can reach out to me via email: guillermoferrioldev@gmail.com
 
