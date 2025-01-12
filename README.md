@@ -52,8 +52,9 @@ I'm currently learning Flutter to build cross-platform applications.
        <td>
          <div>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nexjs" width="40" height="40"/>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="38"/>
-             <img src="https://avatars.githubusercontent.com/u/61727377?s=280&v=4" alt="Module Federation" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="38"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"/>
+            <img src="https://avatars.githubusercontent.com/u/61727377?s=280&v=4" alt="Module Federation" width="40" height="40"/>
          </div>
        </td>
     </tr>
