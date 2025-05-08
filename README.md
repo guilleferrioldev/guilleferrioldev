@@ -1,8 +1,6 @@
 ## I'm Guille Ferriol
 A software engineer who is fascinated by great challenges. I am motivated by projects that have a real impact, that are highly scalable and high-performing.
 
-I'm currently learning Flutter to build cross-platform applications.
-
 ### 🛠️ Technical Skills
 <details>
 <br>
